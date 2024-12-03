@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/core/src/app/page.tsx"],"sourcesContent":["import { Button } from \"@/components/ui/button\";\nimport Image from \"next/image\";\n\nexport default function Home() {\n  return (\n    <div className=\"grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]\">\n      <Button />\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;AAAA;;;AAGe,SAAS;IACtB,qBACE,ucAAC;QAAI,WAAU;kBACb,cAAA,ucAAC,kIAAA,CAAA,SAAM;;;;;;;;;;AAGb"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
